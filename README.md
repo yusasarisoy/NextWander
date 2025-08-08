@@ -97,4 +97,5 @@ open NextWander.xcodeproj
 ---
 
 **License**
+
 License details will be added before the first public release.
