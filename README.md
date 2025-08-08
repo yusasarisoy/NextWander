@@ -97,4 +97,4 @@ open NextWander.xcodeproj
 ---
 
 **License**
-MIT License — see [LICENSE](LICENSE) for details.
+License details will be added before the first public release.
