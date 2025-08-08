@@ -1,0 +1,9 @@
+# Xcode user-specific settings (breakpoints, UI states, etc.)
+*.xcuserdatad
+*.xcuserstate
+*.xcscmblueprint
+*.xcbkptlist
+
+# Ignore xcuserdata folder entirely
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
